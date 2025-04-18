@@ -21,9 +21,9 @@ The goal of this project is to build a binary classification model that can effe
 ## Dataset
 The dataset used in this project consists of labeled news articles with title, text, and label columns. Typically:
 
-- label = 0: Real news
+- label = 0: Fake news
 
-- label = 1: Fake news
+- label = 1: Real news
 
 📥 [Download the Dataset](https://drive.google.com/drive/folders/1uDiDqvD7jKLsvoetN64ppb3e7QqpUxYc?usp=drive_link)
 
